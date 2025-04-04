@@ -1,4 +1,19 @@
-# ProjetoTrabalho
+# ProjetoTrabalho:
+RA: 24002164
+NOME: Julio Cesar Albuquerque Ribeiro
+
+RA: 1012023200082	
+NOME: Bryan Toledo de Oliveira
+
+RA: 24000478	
+NOME: Vinicius da Silva Giovaneli
+
+RA: 24000897	
+NOME: Luis Felipe da Silva Nogueira
+
+RA: 25001142	
+NOME: João Gabriel da Silva
+
  Sistema de Gerenciamento de Oficina de Reparos
 Sistema em C# para controle de ordens de serviço, estoque de peças e cadastro de clientes, funcionários e fornecedores em uma oficina de reparos de eletrônicos.
 
